@@ -1,3 +1,4 @@
+#GH
 cuestionario 
 ¿Para qué crees que se usan los operadores lógicos en programación?
 Para evaluar múltiples condiciones y tomar decisiones más complejas en el código.
