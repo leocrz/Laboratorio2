@@ -1,0 +1,14 @@
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\bin\Debug\net8.0\Lab2Parte3.exe
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\bin\Debug\net8.0\Lab2Parte3.deps.json
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\bin\Debug\net8.0\Lab2Parte3.runtimeconfig.json
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\bin\Debug\net8.0\Lab2Parte3.dll
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\bin\Debug\net8.0\Lab2Parte3.pdb
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\Lab2Parte3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\Lab2Parte3.AssemblyInfoInputs.cache
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\Lab2Parte3.AssemblyInfo.cs
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\Lab2Parte3.csproj.CoreCompileInputs.cache
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\Lab2Parte3.dll
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\refint\Lab2Parte3.dll
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\Lab2Parte3.pdb
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\Lab2Parte3.genruntimeconfig.cache
+C:\Laboratorio2Progra\Lab2Parte3\Lab2Parte3\obj\Debug\net8.0\ref\Lab2Parte3.dll
